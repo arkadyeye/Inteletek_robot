@@ -1,0 +1,1210 @@
+1 - Sep 30 13:19:20.743 - Create link with USB device #  0
+2 - Sep 30 13:59:30.957 - Cannot read from USB
+3 - Sep 30 13:59:30.957 - Cannot read from USB
+Error: (5) Access is denied.
+
+4 - Sep 30 13:59:30.966 - ***  Error Message (20)  Controller is not responding
+5 - Sep 30 13:59:39.807 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+6 - Sep 30 13:59:40. 69 - Create link with USB device #  1
+7 - Sep 30 13:59:40. 82 - Communication delay(ms): 419356
+8 - Sep 30 14:23:26.328 - Cannot write to USB. Message ID: 241
+9 - Sep 30 14:23:26.328 - Cannot write to USB
+Error: (31) A device attached to the system is not functioning.
+
+10 - Sep 30 14:23:26.336 - ***  Error Message (20)  Controller is not responding
+11 - Sep 30 14:23:35.103 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+12 - Sep 30 14:23:44. 59 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+13 - Sep 30 14:23:53. 16 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+14 - Sep 30 14:24:01.974 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+15 - Sep 30 14:24:10.938 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+16 - Sep 30 14:24:19.895 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+17 - Sep 30 14:24:28.859 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+18 - Sep 30 14:24:37.813 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+19 - Sep 30 14:24:46.768 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+20 - Sep 30 14:24:55.726 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+21 - Sep 30 14:25:04.686 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+22 - Sep 30 14:25:13.660 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+23 - Sep 30 14:25:22.623 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+24 - Sep 30 14:25:31.582 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+25 - Sep 30 14:25:40.550 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+26 - Sep 30 14:25:49.512 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+27 - Sep 30 14:25:58.475 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+28 - Sep 30 14:26:07.440 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+29 - Sep 30 14:26:16.401 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+30 - Sep 30 14:26:25.362 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+31 - Sep 30 14:26:34.324 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+32 - Sep 30 14:26:43.284 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+33 - Sep 30 14:26:52.242 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+34 - Sep 30 14:27:01.203 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+35 - Sep 30 14:27:10.175 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+36 - Sep 30 14:27:19.134 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+37 - Sep 30 14:27:28.102 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+38 - Sep 30 14:27:37. 64 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+39 - Sep 30 14:27:46. 19 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+40 - Sep 30 21:30:26.271 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+41 - Sep 30 21:30:35.295 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+42 - Sep 30 21:30:44.255 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+43 - Sep 30 21:30:53.218 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+44 - Sep 30 21:31:02.179 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+45 - Sep 30 21:31:11.131 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+46 - Sep 30 21:31:20. 85 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+47 - Sep 30 21:31:29. 52 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+48 - Oct 01 03:06:16.363 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+49 - Oct 01 15:40:25.134 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+50 - Oct 01 15:40:34.122 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+51 - Oct 01 15:40:43.119 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+52 - Oct 01 15:40:52. 95 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+53 - Oct 01 15:41:01. 36 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+54 - Oct 01 15:41:09.998 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+55 - Oct 01 15:41:18.967 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+56 - Oct 01 21:30:45.739 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+57 - Oct 01 21:30:55.712 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+58 - Oct 01 21:31:04.680 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+59 - Oct 01 21:31:13.653 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+60 - Oct 01 21:31:22.622 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+61 - Oct 01 21:31:31.592 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+62 - Oct 01 21:31:40.560 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+63 - Oct 01 21:31:49.527 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+64 - Oct 02 15:38:19.550 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+65 - Oct 02 15:38:28.537 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+66 - Oct 02 15:38:37.501 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+67 - Oct 02 15:38:46.448 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+68 - Oct 02 15:38:55.400 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+69 - Oct 02 15:39:04.366 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+70 - Oct 02 15:39:13.331 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+71 - Oct 02 21:38:38.803 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+72 - Oct 02 21:38:49.545 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+73 - Oct 02 21:38:58.520 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+74 - Oct 02 21:39:07.479 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+75 - Oct 02 21:39:16.448 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+76 - Oct 02 21:39:25.409 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+77 - Oct 02 21:39:34.380 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+78 - Oct 02 21:39:43.350 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+79 - Oct 03 15:39:47. 38 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+80 - Oct 03 15:39:56. 38 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+81 - Oct 03 15:40:05. 30 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+82 - Oct 03 15:40:14. 24 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+83 - Oct 03 15:40:22.982 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+84 - Oct 03 15:40:31.945 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+85 - Oct 03 15:40:40.902 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+86 - Oct 03 21:35:33.217 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+87 - Oct 03 21:35:44.241 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+88 - Oct 03 21:35:53.209 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+89 - Oct 03 21:36:02.182 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+90 - Oct 03 21:36:11.152 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+91 - Oct 03 21:36:20.121 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+92 - Oct 03 21:36:29. 88 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+93 - Oct 03 21:36:38. 58 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+94 - Oct 04 03:08:04.478 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+95 - Oct 04 15:39:44.637 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+96 - Oct 04 15:39:53.597 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+97 - Oct 04 15:40:02.561 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+98 - Oct 04 15:40:11.523 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+99 - Oct 04 15:40:20.487 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+100 - Oct 04 15:40:29.444 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+101 - Oct 04 21:39:18.336 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+102 - Oct 04 21:39:27.320 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+103 - Oct 04 21:39:36.315 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+104 - Oct 04 21:39:46.300 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+105 - Oct 04 21:39:55.253 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+106 - Oct 04 21:40:04.224 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+107 - Oct 04 21:40:13.193 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+108 - Oct 04 21:40:22.156 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+109 - Oct 04 21:40:31.125 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+110 - Oct 04 21:40:40. 90 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+111 - Oct 05 15:31:12.523 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+112 - Oct 05 15:31:21.523 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+113 - Oct 05 15:31:30.519 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+114 - Oct 05 15:31:39.515 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+115 - Oct 05 15:31:48.473 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+116 - Oct 05 15:31:57.452 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+117 - Oct 05 15:32:06.445 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+118 - Oct 05 21:28:50.470 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+119 - Oct 05 21:29:01.474 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+120 - Oct 05 21:29:10.457 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+121 - Oct 05 21:29:19.446 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+122 - Oct 05 21:29:28.445 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+123 - Oct 05 21:29:37.455 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+124 - Oct 05 21:29:46.464 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+125 - Oct 05 21:29:55.474 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+126 - Oct 05 21:30:04.485 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+127 - Oct 06 15:39:07.644 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+128 - Oct 06 15:39:16.632 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+129 - Oct 06 15:39:25.630 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+130 - Oct 06 15:39:34.631 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+131 - Oct 06 15:39:43.637 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+132 - Oct 06 15:39:52.626 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+133 - Oct 06 15:40:01.587 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+134 - Oct 06 15:40:10.550 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+135 - Oct 06 21:38:49.554 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+136 - Oct 06 21:38:58.535 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+137 - Oct 06 21:39:07.504 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+138 - Oct 06 21:39:16.470 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+139 - Oct 06 21:39:25.435 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+140 - Oct 06 21:39:34.396 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+141 - Oct 06 21:39:43.354 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+142 - Oct 06 21:39:52.311 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+143 - Oct 06 21:40:02.291 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+144 - Oct 06 21:40:11.245 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+145 - Oct 06 21:40:20.209 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+146 - Oct 06 21:40:29.171 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+147 - Oct 06 21:40:38.134 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+148 - Oct 06 21:40:47.101 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+149 - Oct 06 21:40:56. 65 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+150 - Oct 07 15:39:00.509 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+151 - Oct 07 15:39:09.478 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+152 - Oct 07 15:39:18.441 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+153 - Oct 07 15:39:27.403 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+154 - Oct 07 15:39:36.365 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+155 - Oct 07 15:39:45.334 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+156 - Oct 07 15:39:54.298 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+157 - Oct 07 21:30:07.242 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+158 - Oct 07 21:30:17.239 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+159 - Oct 07 21:30:26.201 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+160 - Oct 07 21:30:35.162 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+161 - Oct 07 21:30:44.127 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+162 - Oct 07 21:30:53. 89 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+163 - Oct 07 21:31:02. 51 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+164 - Oct 07 21:31:11. 21 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+165 - Oct 08 15:32:20.222 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+166 - Oct 08 15:32:29.215 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+167 - Oct 08 15:32:38.216 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+168 - Oct 08 15:32:47.202 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+169 - Oct 08 15:32:56.160 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+170 - Oct 08 15:33:05.122 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+171 - Oct 08 15:33:14. 82 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+172 - Oct 08 21:32:24.750 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+173 - Oct 08 21:32:33.738 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+174 - Oct 08 21:32:44.744 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+175 - Oct 08 21:32:53.694 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+176 - Oct 08 21:33:02.670 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+177 - Oct 08 21:33:11.641 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+178 - Oct 08 21:33:20.609 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+179 - Oct 08 21:33:29.568 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+180 - Oct 09 03:03:14.161 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+181 - Oct 09 15:42:45.108 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+182 - Oct 09 15:42:54.109 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+183 - Oct 09 15:43:03.101 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+184 - Oct 09 15:43:12. 87 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+185 - Oct 09 15:43:21. 48 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+186 - Oct 09 15:43:30. 20 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+187 - Oct 09 15:43:38.982 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+188 - Oct 09 15:43:47.946 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+189 - Oct 09 15:43:56.910 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+190 - Oct 09 15:44:05.870 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+191 - Oct 09 15:44:14.820 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+192 - Oct 09 15:44:23.774 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+193 - Oct 09 15:44:32.729 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+194 - Oct 09 15:44:41.674 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+195 - Oct 09 15:44:50.626 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+196 - Oct 09 15:44:59.575 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+197 - Oct 09 15:45:08.526 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+198 - Oct 09 15:45:17.477 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+199 - Oct 09 15:45:26.438 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+200 - Oct 09 15:45:35.403 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+201 - Oct 09 15:45:44.368 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+202 - Oct 09 15:45:53.329 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+203 - Oct 09 15:46:02.285 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+204 - Oct 09 15:46:11.252 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+205 - Oct 09 15:46:20.216 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+206 - Oct 09 15:46:29.176 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+207 - Oct 09 15:46:38.139 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+208 - Oct 09 15:46:47. 98 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+209 - Oct 09 15:46:56. 72 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+210 - Oct 09 15:47:05. 39 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+211 - Oct 09 15:47:14.  7 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+212 - Oct 09 15:47:22.966 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+213 - Oct 09 15:47:31.928 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+214 - Oct 09 15:47:40.888 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+215 - Oct 09 15:47:49.847 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+216 - Oct 09 15:47:58.809 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+217 - Oct 09 15:48:07.772 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+218 - Oct 09 15:48:16.748 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+219 - Oct 09 15:48:25.708 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+220 - Oct 09 15:48:34.668 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+221 - Oct 09 15:48:43.621 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+222 - Oct 09 15:48:52.577 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+223 - Oct 09 15:49:01.535 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+224 - Oct 09 15:49:10.506 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+225 - Oct 09 15:49:19.490 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+226 - Oct 09 15:49:28.465 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+227 - Oct 09 15:49:37.421 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+228 - Oct 09 15:49:46.379 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+229 - Oct 09 15:49:55.344 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+230 - Oct 09 15:50:04.301 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+231 - Oct 09 15:50:13.255 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+232 - Oct 09 15:50:22.211 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+233 - Oct 09 15:50:31.176 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+234 - Oct 09 15:50:40.139 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+235 - Oct 09 15:50:49.107 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+236 - Oct 09 15:50:58. 55 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+237 - Oct 09 15:51:07. 21 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+238 - Oct 09 15:51:15.985 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+239 - Oct 09 15:51:24.943 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+240 - Oct 09 15:51:33.913 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+241 - Oct 09 15:51:42.890 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+242 - Oct 09 15:51:51.858 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+243 - Oct 09 15:52:00.833 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+244 - Oct 09 15:52:09.797 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+245 - Oct 09 15:52:18.784 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+246 - Oct 09 15:52:27.767 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+247 - Oct 09 15:52:36.724 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+248 - Oct 09 21:27:51.356 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+249 - Oct 09 21:28:01.363 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+250 - Oct 09 21:28:10.347 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+251 - Oct 09 21:28:19.346 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+252 - Oct 09 21:28:28.338 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+253 - Oct 09 21:28:37.324 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+254 - Oct 09 21:28:46.312 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+255 - Oct 09 21:28:55.274 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+256 - Oct 09 21:29:05.253 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+257 - Oct 09 21:29:14.201 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+258 - Oct 09 21:29:23.171 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+259 - Oct 09 21:29:32.146 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+260 - Oct 09 21:29:41.111 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+261 - Oct 09 21:29:50. 60 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+262 - Oct 09 21:29:59. 19 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+263 - Oct 10 15:30:58.405 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+264 - Oct 10 15:31:07.414 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+265 - Oct 10 15:31:16.401 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+266 - Oct 10 15:31:25.394 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+267 - Oct 10 15:31:34.370 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+268 - Oct 10 15:31:43.346 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+269 - Oct 10 15:31:52.320 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+270 - Oct 10 21:30:39.944 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+271 - Oct 10 21:30:49.946 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+272 - Oct 10 21:30:58.914 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+273 - Oct 10 21:31:07.882 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+274 - Oct 10 21:31:16.858 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+275 - Oct 10 21:31:25.826 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+276 - Oct 10 21:31:34.794 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+277 - Oct 10 21:31:43.758 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+278 - Oct 11 03:30:46.837 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+279 - Oct 11 15:31:43.503 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+280 - Oct 11 15:31:52.515 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+281 - Oct 11 15:32:01.515 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+282 - Oct 11 15:32:10.512 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+283 - Oct 11 15:32:19.501 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+284 - Oct 11 15:32:28.466 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+285 - Oct 11 21:32:11.612 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+286 - Oct 11 21:32:21.601 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+287 - Oct 11 21:32:32.628 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+288 - Oct 11 21:32:41.576 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+289 - Oct 11 21:32:50.538 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+290 - Oct 11 21:32:59.479 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+291 - Oct 11 21:33:08.434 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+292 - Oct 11 21:33:17.400 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+293 - Oct 11 21:33:26.364 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+294 - Oct 12 15:36:40.180 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+295 - Oct 12 15:36:49.153 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+296 - Oct 12 15:36:58.146 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+297 - Oct 12 15:37:07.135 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+298 - Oct 12 15:37:16. 82 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+299 - Oct 12 15:37:25. 39 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+300 - Oct 12 15:37:34. 19 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+301 - Oct 12 21:37:13.182 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+302 - Oct 12 21:37:23.171 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+303 - Oct 12 21:37:32.132 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+304 - Oct 12 21:37:41. 97 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+305 - Oct 12 21:37:50. 63 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+306 - Oct 12 21:37:59. 28 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+307 - Oct 12 21:38:07.997 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+308 - Oct 12 21:38:16.960 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+309 - Oct 13 15:36:46.954 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+310 - Oct 13 15:36:55.937 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+311 - Oct 13 15:37:04.925 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+312 - Oct 13 15:37:13.899 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+313 - Oct 13 15:37:22.875 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+314 - Oct 13 15:37:31.846 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+315 - Oct 13 15:37:40.812 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+316 - Oct 13 15:37:49.773 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+317 - Oct 13 15:37:58.736 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+318 - Oct 13 15:38:07.706 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+319 - Oct 13 15:38:16.693 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+320 - Oct 13 15:38:25.681 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+321 - Oct 13 15:38:34.657 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+322 - Oct 13 15:38:43.618 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+323 - Oct 13 21:37:13.553 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+324 - Oct 13 21:37:23.536 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+325 - Oct 13 21:37:32.496 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+326 - Oct 13 21:37:41.463 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+327 - Oct 13 21:37:50.433 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+328 - Oct 13 21:37:59.396 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+329 - Oct 13 21:38:08.361 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+330 - Oct 13 21:38:17.320 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+331 - Oct 14 15:39:13.644 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+332 - Oct 14 15:39:22.610 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+333 - Oct 14 15:39:31.582 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+334 - Oct 14 15:39:40.571 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+335 - Oct 14 15:39:49.528 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+336 - Oct 14 15:39:58.489 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+337 - Oct 14 15:40:07.453 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+338 - Oct 14 21:38:43.291 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+339 - Oct 14 21:38:54.294 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+340 - Oct 14 21:39:03.256 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+341 - Oct 14 21:39:12.217 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+342 - Oct 14 21:39:21.180 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+343 - Oct 14 21:39:30.155 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+344 - Oct 14 21:39:39.118 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+345 - Oct 14 21:39:48. 77 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+346 - Oct 15 08:38:45.911 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+347 - Oct 15 08:38:54.877 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+348 - Oct 15 08:39:03.857 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+349 - Oct 15 08:39:12.821 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+350 - Oct 15 08:39:21.776 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+351 - Oct 15 08:39:30.741 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+352 - Oct 15 08:39:39.710 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+353 - Oct 15 08:39:48.672 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+354 - Oct 15 08:39:57.632 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+355 - Oct 15 08:40:06.594 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+356 - Oct 15 08:40:15.559 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+357 - Oct 15 08:40:24.522 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+358 - Oct 15 08:40:33.487 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+359 - Oct 15 08:40:42.461 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+360 - Oct 15 08:40:51.429 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+361 - Oct 15 08:41:00.390 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+362 - Oct 15 08:41:09.350 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+363 - Oct 15 08:41:18.322 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+364 - Oct 15 08:41:27.292 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+365 - Oct 15 08:41:36.259 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+366 - Oct 15 08:41:45.219 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+367 - Oct 15 08:41:54.183 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+368 - Oct 15 08:42:03.150 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+369 - Oct 15 08:42:12.118 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+370 - Oct 15 08:42:21. 83 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+371 - Oct 15 08:42:30. 46 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+372 - Oct 15 08:42:39. 12 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+373 - Oct 15 08:42:47.976 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+374 - Oct 15 08:42:56.942 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+375 - Oct 15 08:43:05.908 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+376 - Oct 15 08:43:14.872 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+377 - Oct 15 08:43:23.832 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+378 - Oct 15 08:43:32.797 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+379 - Oct 15 08:43:41.761 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+380 - Oct 15 08:43:50.725 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+381 - Oct 15 08:43:59.692 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+382 - Oct 15 08:44:08.661 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+383 - Oct 15 08:44:17.628 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+384 - Oct 15 08:44:26.597 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+385 - Oct 15 08:44:35.563 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+386 - Oct 15 08:44:44.530 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+387 - Oct 15 08:44:53.499 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+388 - Oct 15 08:45:02.463 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+389 - Oct 15 08:45:11.428 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+390 - Oct 15 08:45:20.385 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+391 - Oct 15 08:45:29.351 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+392 - Oct 15 08:45:38.315 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+393 - Oct 15 08:45:47.274 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+394 - Oct 15 08:45:56.245 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+395 - Oct 15 08:46:05.203 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+396 - Oct 15 08:46:14.168 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+397 - Oct 15 08:46:23.134 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+398 - Oct 15 08:46:32. 94 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+399 - Oct 15 08:46:41. 60 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+400 - Oct 15 08:46:50. 27 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+401 - Oct 15 08:46:58.990 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+402 - Oct 15 08:47:07.960 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+403 - Oct 15 08:47:16.929 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+404 - Oct 15 08:47:25.890 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+405 - Oct 15 08:47:34.854 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+406 - Oct 15 08:47:43.817 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+407 - Oct 15 08:47:52.780 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
+408 - Oct 15 08:48:01.750 - Attempt create link with USB driver is failed
+Error: (2) The system cannot find the file specified.
+
